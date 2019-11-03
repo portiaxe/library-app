@@ -1,0 +1,3 @@
+[submodule "library-ui"]
+	path = library-ui
+	url = https://github.com/portiaxe/library-ui.git
